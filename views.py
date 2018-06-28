@@ -77,7 +77,7 @@ def getrecommand(request):
                 "packageName":"com.erciyuan.clock", 
                 "Name" : "Alarm", 
                 "downloadUrl" : "https://play.google.com/store/apps/details?id=com.erciyuan.clock", 
-                "icon_url": "http://www.xlauncher.cn/media/business/alarm.png",
+                "icon_url": "http://www.xlauncher.cn/media/business/clock_new.png",
                 "description":"Anime and minimalist design is the most important feature of the One AlarmClock, so that anime lovers cannot put it down. Stick to the anime style at the same time, but also contains the practicality of the function,such as alarm clocks, world clocks, stopwatches and timer."
             }, 
             {
@@ -89,7 +89,7 @@ def getrecommand(request):
 
             }, 
             {
-                "packageName":"com.onetouch.clicklock", 
+                "packageName":"com.onetouch.clicklock",
                 "Name" : "Touch", 
                 "downloadUrl" : "https://play.google.com/store/apps/details?id=com.onetouch.clicklock", 
                 "icon_url": "http://www.xlauncher.cn/media/business/one touch.jpg",
@@ -97,11 +97,11 @@ def getrecommand(request):
 
             },
             {
-                "packageName":"com.xui.launcher.xtwo", 
-                "Name" : "X Theme", 
-                "downloadUrl" : "https://play.google.com/store/apps/details?id=com.xui.launcher.xtwo", 
-                "icon_url": "http://www.xlauncher.cn/media/business/xtheme_logo.png",
-                "description": "New Launcher Theme. clear & clean. "
+                "packageName":"com.syido.elementcalculators", 
+                "Name" : "Calculator", 
+                "downloadUrl" : "https://play.google.com/store/apps/details?id=com.syido.elementcalculators", 
+                "icon_url": "http://www.xlauncher.cn/media/business/caculate.png",
+                "description": "This calculator is a powerful smart calculator with mixed case to customize your digital life and scientific needs standardly ！It's the perfect tool to solve your daily calculation. "
             }                        
         ]
         }
