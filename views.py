@@ -32,7 +32,6 @@ def api_root(request, format=None):
 
             }
 '''
-
 def getrecommand(request):
     xd = request.GET.get('xd', '')
     if xd == "864413034260570" or xd == "862374037967029" or xd == "865736032296280x" :
@@ -101,7 +100,7 @@ def getrecommand(request):
                 "Name" : "Calculator", 
                 "downloadUrl" : "https://play.google.com/store/apps/details?id=com.syido.elementcalculators", 
                 "icon_url": "http://www.xlauncher.cn/media/business/caculate.png",
-                "description": "This calculator is a powerful smart calculator with mixed case to customize your digital life and scientific needs standardly ！It's the perfect tool to solve your daily calculation. "
+                "description": "This calculator is a powerful smart calculator with mixed case to customize your digital life and scientific needs standardly ! It's the perfect tool to solve your daily calculation. "
             }                        
         ]
         }
