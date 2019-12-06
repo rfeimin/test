@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2019-12-06T08:06:00.418Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" version="12.3.7" etag="aulXy4hot-7jyT6RnhAj" type="github"><diagram id="CdVP9Yj6gYEWzU6RodmW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-06T12:37:25.441Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36" etag="YZo5w3gVS-J_04WKU1Mr" version="12.3.7" type="github" pages="1">
+  <diagram id="CdVP9Yj6gYEWzU6RodmW" name="Page-1">
+    <mxGraphModel dx="1069" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="220" as="sourcePoint"/>
+            <mxPoint x="800" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-2" value="6月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377" y="190" width="57" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-3" value="7月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="57" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-4" value="8月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="190" width="57" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-5" value="一、西湖E内测&lt;br&gt;二、西湖E主要解决问题&lt;br&gt;1. hub稳定性&lt;br&gt;2. ecg测量准确性&lt;br&gt;3. 运动稳定性&lt;br&gt;三、西湖主要Feature &amp;amp; bug fix&lt;br&gt;1. BLE蓝牙引起的功耗问题&lt;br&gt;2. PAI QQ 等陆续上线" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="160" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-6" value="西湖E上市" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="240" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-7" value="一、西湖上市" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-8" value="5月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="57" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-9" value="一、西湖内测&lt;br&gt;二、主要fix问题&lt;br&gt;&lt;div&gt;蓝牙相关:&lt;/div&gt;&lt;div&gt;a. 数据同步、&lt;span&gt;b. BLE蓝牙功耗&lt;/span&gt;&lt;/div&gt;&lt;div&gt;数据准确性：&lt;/div&gt;&lt;div&gt;a. GPS、&lt;span&gt;b. 步数相关&lt;/span&gt;&lt;/div&gt;&lt;div&gt;性能相关：&lt;/div&gt;&lt;div&gt;a. 抬腕亮屏性能&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="100" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cuy72bO0qt5xlUzaLKjf-10" value="5月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="57" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
